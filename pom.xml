@@ -62,7 +62,7 @@
 	</dependencies>
 
 	<build>
-		<finalName>sapnabook</finalName>
+		<finalName>sapna-book-1.0.0</finalName>
 		<plugins>
 			<plugin>
 				<artifactId>maven-clean-plugin</artifactId>
