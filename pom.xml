@@ -4,7 +4,7 @@
 	<groupId>com.bookstore</groupId>
 	<artifactId>sapnabook</artifactId>
 	<packaging>war</packaging>
-	<version>v0.0.1 SNAPSHOT</version>
+	<version>0.0.1 SNAPSHOT</version>
 	<name>sapnabookstore</name>
 	<url>http://maven.apache.org</url>
 
