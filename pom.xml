@@ -4,7 +4,7 @@
 	<groupId>com.bookstore</groupId>
 	<artifactId>sapna-book</artifactId>
 	<packaging>war</packaging>
-	<version>0.0.1 SNAPSHOT</version>
+	<version>0.0.1.SNAPSHOT</version>
 	<name>sapnabookstore</name>
 	<url>http://maven.apache.org</url>
 
@@ -62,7 +62,7 @@
 	</dependencies>
 
 	<build>
-		<finalName>sapna-book-0.0.1</finalName>
+		<finalName>sapna-book-0.0.1.SNAPSHOT.war</finalName>
 		<plugins>
 			<plugin>
 				<artifactId>maven-clean-plugin</artifactId>
