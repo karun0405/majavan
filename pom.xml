@@ -3,9 +3,9 @@
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>com.bookstore</groupId>
 	<artifactId>sapna</artifactId>
-	<packaging>jar</packaging>
-	<version>v0.1 SNAPSHOT</version>
-	<name>HelloWorld Maven Webapp</name>
+	<packaging>war</packaging>
+	<version>v0.0.1 SNAPSHOT</version>
+	<name>sapnabookstore</name>
 	<url>http://maven.apache.org</url>
 
 	<properties>
